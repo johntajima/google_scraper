@@ -1,6 +1,6 @@
 # GoogleScraper
 
-TODO: Write a gem description
+Scrapes first 10 pages of Google.ca search results and saves url,text into output.csv file.
 
 ## Installation
 
@@ -18,7 +18,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    $ google_scraper "search term site:somesite.com"
+
 
 ## Contributing
 

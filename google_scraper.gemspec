@@ -7,7 +7,7 @@ Gem::Specification.new do |gem|
   gem.name          = "google_scraper"
   gem.version       = GoogleScraper::VERSION
   gem.authors       = ["John Tajima"]
-  gem.email         = ["john@shopify.com"]
+  gem.email         = ["johntajima@gmail.com"]
   gem.description   = %q{Scrapes first 10 pages of google with given query}
   gem.summary       = %q{Scrapes first 10 pages of google with given query}
   gem.homepage      = ""
